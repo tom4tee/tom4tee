@@ -10,7 +10,7 @@
 
 <h1 align= "left"> Knowledge</h1>
   - Programming Lenguages :
-<p align="left"> <a href="https://www.python.org/doc/" target="_blank"> <img src="https://img.shields.io/badge/Python-ffd966?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a> <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"> <img src="https://img.shields.io/badge/CSS-ff5301?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<p align="left"> <a href="https://www.python.org/doc/" target="_blank"> <img src="https://img.shields.io/badge/Python-ffd966?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a> <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"> <img src="https://img.shields.io/badge/HTML5-ff5301?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 
 <h1 align= "left"> Operative Systems</h1>
 
