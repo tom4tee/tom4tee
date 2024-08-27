@@ -6,7 +6,7 @@
 > - 🌱 Trabajando actualmente en [nada lol](https://github.com/kvd3k)
 > - 💻 Todos mis proyectos [aqui](https://github.com/kvd3k?tab=repositories)
 
-### Conocimientos brh brh //le robe este apartado al rancio jaja salu2
+### Conocimientos brh brh
 * Lenguajes de Programacion
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
