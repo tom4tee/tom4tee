@@ -1,7 +1,7 @@
 <h1 align= "left"> kvd3k </h1>
 <h3 align="left">aweonao xdx.</h3>
 
-[![Twitter](https://img.shields.io/badge/Youtube-1D9BF0?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kvd3k)
+[![Twitter](https://img.shields.io/badge/Youtube-E21839?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kvd3k)
 
 - 🌱 Trabajando actualmente en [nada lol](https://github.com/kvd3k)
 - 💻 Todos mis proyectos [aqui](https://github.com/kvd3k?tab=repositories)
