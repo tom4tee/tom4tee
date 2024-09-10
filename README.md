@@ -16,4 +16,4 @@
 
 ##
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akiitvm&show_icons=true&theme=transparensy" alt="akii stats" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akiitvm&show_icons=true&theme=transparent" alt="akii stats" /></p>
