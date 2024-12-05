@@ -15,5 +15,4 @@
 ![Windows](https://img.shields.io/badge/Windows10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ##
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akiitvm&show_icons=true&theme=transparent" alt="akii stats" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tom4tee&show_icons=true&theme=transparent" alt="akii stats" /></p>
