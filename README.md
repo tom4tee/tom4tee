@@ -1,9 +1,9 @@
-<h1> k4ii </h1>
+<h1> tom4tee </h1>
 <p>i do shit when i'm bored
-<br>🌱Working rn in <a href="https://github.com/vk4ii">nothing lol<a>
-<br>🦦All my shit <a href="https://github.com/vk4ii?tab=repositories">here<a>
+<br>🌱Working rn in <a href="https://github.com/tom4tee">nothing lol<a>
+<br>🦦All my shit <a href="https://github.com/tom4tee?tab=repositories">here<a>
 
-[![Youtube](https://img.shields.io/badge/Youtube-FF2347?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@akiiitvm)
+[![Youtube](https://img.shields.io/badge/Youtube-FF2347?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tom4tee)
 
 ### Knowledge brh brh
 * Programming Languages
